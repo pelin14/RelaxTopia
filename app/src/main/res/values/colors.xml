@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#4F0D9F</color>
+    <color name="purple_500">#52298E</color>
+    <color name="purple_700">#817A95</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ItemSelectedColor">#E81E63</color>
+    <color name="ItemUnSelectedColor">#E29ED8</color>
+    <color name="purple">#DA00FF</color>
+    <color name="arkaplan">#866AA3</color>
+    <color name="green">#B1D8B7</color>
+    <color name="mor">#7254A5</color>
+
+
+
+    <color name="start_color">#1f4037</color>
+    <color name="end_color">#99f2c8</color>
+
+
+
+
+</resources>

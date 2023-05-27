@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.RelaxTopia"
+        tools:targetApi="31">
+        <activity
+            android:name=".Yogaaa"
+            android:exported="false" />
+        <activity
+            android:name=".Savasci"
+            android:exported="false" />
+        <activity
+            android:name=".Gunes"
+            android:exported="false" />
+        <activity
+            android:name=".Plank"
+            android:exported="false" />
+        <activity
+            android:name=".Kobra"
+            android:exported="false" />
+        <activity
+            android:name=".Lotus"
+            android:exported="false" />
+        <activity
+            android:name=".Muzik"
+            android:exported="false" />
+        <activity
+            android:name=".Nefes"
+            android:exported="false" />
+        <activity
+            android:name=".Meditasyon"
+            android:exported="false" />
+        <activity
+            android:name=".yeniyoga"
+            android:exported="false" />
+        <activity
+            android:name=".HomeeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HomeActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
